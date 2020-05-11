@@ -21,5 +21,14 @@
 Credits  Site Layout provided by Hugo Hello Friend Theme  </description>
     </item>
     
+    <item>
+      <title>Talks</title>
+      <link>https://beefaaubee09.github.io/talks/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beefaaubee09.github.io/talks/</guid>
+      <description>Security Talks/Presentations  Introduction to Cyber Security for Small Business  Slides  Video Part I Video Part II      </description>
+    </item>
+    
   </channel>
 </rss>
