@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BeeFaauBee</title>
+    <link>https://beefaaubee09.github.io/</link>
+    <description>Recent content on BeeFaauBee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://beefaaubee09.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://beefaaubee09.github.io/about/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beefaaubee09.github.io/about/</guid>
+      <description>Security Analyst and Professional Red Teamer. I drink cardamom tea and stare black screens.
+Credits  Site Layout provided by Hugo Hello Friend Theme  </description>
+    </item>
+    
+  </channel>
+</rss>
